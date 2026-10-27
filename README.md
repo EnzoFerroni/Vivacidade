@@ -98,6 +98,12 @@ ProjectCidadeParaPessoas/ProjectCidadeParaPessoas/
         <a href="https://www.linkedin.com/in/enzoferroni/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/></a>
       </td>
       <td align="center" width="25%">
+        <a href="https://github.com/gsgonca"><img src="https://github.com/gsgonca.png" width="90" alt="Gabriel Gonçalves"/></a>
+        <br/><sub><b>Gabriel Gonçalves</b></sub><br/><br/>
+        <a href="https://github.com/gsgonca"><img src="https://skillicons.dev/icons?i=github" alt="GitHub"/></a>
+        <a href="https://www.linkedin.com/in/gabriel-s-gon%C3%A7alves/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/></a>
+      </td>
+      <td align="center" width="25%">
         <a href="https://github.com/JonasFNMelo"><img src="https://github.com/JonasFNMelo.png" width="90" alt="Jonas Melo"/></a>
         <br/><sub><b>Jonas Melo</b></sub><br/><br/>
         <a href="https://github.com/JonasFNMelo"><img src="https://skillicons.dev/icons?i=github" alt="GitHub"/></a>
@@ -109,6 +115,8 @@ ProjectCidadeParaPessoas/ProjectCidadeParaPessoas/
         <a href="https://github.com/TamiresMendesS"><img src="https://skillicons.dev/icons?i=github" alt="GitHub"/></a>
         <a href="https://www.linkedin.com/in/tamires-mendes-6006792b7/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/></a>
       </td>
+    </tr>
+    <tr>
       <td align="center" width="25%">
         <a href="https://github.com/hyauss"><img src="https://github.com/hyauss.png" width="90" alt="Vinicius Marques"/></a>
         <br/><sub><b>Vinicius Marques</b></sub><br/><br/>
@@ -123,5 +131,5 @@ Fork of the team repository [C12G4/ProjectCidadeParaPessoas](https://github.com/
 
 ## License
 
-Released under the [MIT License](LICENSE). Copyright (c) 2026 Enzo Ferroni, Jonas Melo,
-Tamires Mendes and Vinicius Marques.
+Released under the [MIT License](LICENSE). Copyright (c) 2026 Enzo Ferroni, Gabriel Gonçalves, Jonas Melo, Tamires Mendes and
+Vinicius Marques.
