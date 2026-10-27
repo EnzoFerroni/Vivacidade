@@ -88,15 +88,40 @@ ProjectCidadeParaPessoas/ProjectCidadeParaPessoas/
 
 ## Team
 
-| Name | GitHub |
-| --- | --- |
-| Enzo Ferroni | [@EnzoFerroni](https://github.com/EnzoFerroni) |
-| Jonas Melo | [@JonasFNMelo](https://github.com/JonasFNMelo) |
-| Tamires Mendes | [@TamiresMendesS](https://github.com/TamiresMendesS) |
-| Vinicius Marques | [@hyauss](https://github.com/hyauss) |
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="25%">
+        <a href="https://github.com/EnzoFerroni"><img src="https://github.com/EnzoFerroni.png" width="90" alt="Enzo Ferroni"/></a>
+        <br/><sub><b>Enzo Ferroni</b></sub><br/><br/>
+        <a href="https://github.com/EnzoFerroni"><img src="https://skillicons.dev/icons?i=github" alt="GitHub"/></a>
+        <a href="https://www.linkedin.com/in/enzoferroni/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/></a>
+      </td>
+      <td align="center" width="25%">
+        <a href="https://github.com/JonasFNMelo"><img src="https://github.com/JonasFNMelo.png" width="90" alt="Jonas Melo"/></a>
+        <br/><sub><b>Jonas Melo</b></sub><br/><br/>
+        <a href="https://github.com/JonasFNMelo"><img src="https://skillicons.dev/icons?i=github" alt="GitHub"/></a>
+        <a href="https://www.linkedin.com/in/jonas-melo-/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/></a>
+      </td>
+      <td align="center" width="25%">
+        <a href="https://github.com/TamiresMendesS"><img src="https://github.com/TamiresMendesS.png" width="90" alt="Tamires Mendes"/></a>
+        <br/><sub><b>Tamires Mendes</b></sub><br/><br/>
+        <a href="https://github.com/TamiresMendesS"><img src="https://skillicons.dev/icons?i=github" alt="GitHub"/></a>
+        <a href="https://www.linkedin.com/in/tamires-mendes-6006792b7/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/></a>
+      </td>
+      <td align="center" width="25%">
+        <a href="https://github.com/hyauss"><img src="https://github.com/hyauss.png" width="90" alt="Vinicius Marques"/></a>
+        <br/><sub><b>Vinicius Marques</b></sub><br/><br/>
+        <a href="https://github.com/hyauss"><img src="https://skillicons.dev/icons?i=github" alt="GitHub"/></a>
+        <a href="https://www.linkedin.com/in/vinicius-marques-966918274/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/></a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 Fork of the team repository [C12G4/ProjectCidadeParaPessoas](https://github.com/C12G4/ProjectCidadeParaPessoas).
 
 ## License
 
-Released under the [MIT License](LICENSE). Copyright (c) 2026 the C12G4 team.
+Released under the [MIT License](LICENSE). Copyright (c) 2026 Enzo Ferroni, Jonas Melo,
+Tamires Mendes and Vinicius Marques.
